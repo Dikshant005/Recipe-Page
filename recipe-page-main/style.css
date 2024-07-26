@@ -1,0 +1,88 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+.mainbox{
+    width: 1440px;
+    height: 2250px;
+    background-color:white ;
+    margin-top: 80px;
+    margin-left: 1400px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+
+    
+}
+.img{
+    padding: 80px 60px;
+}
+img{
+    border-radius: 20px;
+    
+}
+h1{
+    font-size: 80px;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+p{
+    font-size: 30px;
+    margin-left: 65px;
+
+}
+.Preparation{
+    font-size: 40px;
+    margin-left: 100px;
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+ul li{
+    font-size: 30px;
+    margin-left: 100px;
+}
+.ingridients{
+    font-size: 60px;
+    margin-left: 80px;
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+
+}
+.instructions{
+    font-size: 60px;
+    margin-left: 80px;
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+
+}
+ol li{
+    font-size: 30px;
+    margin-left: 65px;
+}
+.nutrition{
+    font-size: 60px;
+    margin-left: 80px;
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+.calories{
+    display: flex;
+    font-size: 26px;
+    justify-content: space-around;
+
+}
+.carbs{
+    display: flex;
+    font-size: 26px;
+    justify-content: space-around;
+}
+.protein{
+    display: flex;
+    font-size: 26px;
+    justify-content: space-around;
+}
+.fat{
+    display: flex;
+    font-size: 26px;
+    justify-content: space-around;
+    
+}
